@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/utkarshmaan](https://github.com/utkarshmaan)
 
-- 💬 Ask me about **Javascript, Java, ReactJs,NodeJs, ExpressJs, HTML, CSS and SQL**
+- 💬 Ask me about **Java, SpringBoot, Angular, Javascript, Typescript, ReactJs, NodeJs, ExpressJs, HTML, CSS, MongoDB and SQL**
 
 - 📫 How to reach me **utkarshmaan91@gmail.com**
 
